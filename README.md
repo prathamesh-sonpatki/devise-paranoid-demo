@@ -1,24 +1,11 @@
-# README
+# Demo Rails app showing example of using paranoid mode in Devise gem
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+#### What is Paranoid mode
 
-* Ruby version
+Paranoid mode does not let users know whether a particular email exists in app database or not.
 
-* System dependencies
+#### Before enabling paranoid mode
 
-* Configuration
+#### After enabling paranoid mode
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
