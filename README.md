@@ -9,3 +9,4 @@ Paranoid mode does not let users know whether a particular email exists in app d
 
 #### After enabling paranoid mode
 
+![With Paranoid mode](https://monosnap.com/file/VNQIo308aDWCBj0QH16QfzkRu6w36x)
